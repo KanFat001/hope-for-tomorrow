@@ -1,0 +1,3 @@
+DirectoryIndex signin.html
+RewriteEngine On
+RewriteRule ^$ signin.html [L]
